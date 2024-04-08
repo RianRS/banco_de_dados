@@ -1,3 +1,5 @@
+# Nome e matrícula: Rian Albano, 557389
+
 create schema atividade1;
 use atividade1;
 show tables;
